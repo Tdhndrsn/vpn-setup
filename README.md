@@ -14,13 +14,6 @@ In this tutorial, we observe the different ipaddresses and its locations using w
 
 - Windows 10 (21H2)
 
-<h2>High-Level Steps</h2>
-
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-
 <h2>Actions and Observations</h2>
 
 ![image](https://github.com/Tdhndrsn/vpn-setup/assets/139307191/2203f3fe-cb79-4250-b0b8-75c23cb1aa74)
@@ -30,7 +23,7 @@ In this tutorial, we observe the different ipaddresses and its locations using w
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open your web browser and type www.whatismyipaddress.com
 </p>
 <br />
 
@@ -39,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Type notepad in windows search bar. Take note of your original PC ipaddress (ipv4) and My IP Information in notepad.
 </p>
 <br />
 
@@ -47,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, you will remote into a computer you want to access by its ipadress (ipv4). Open remote desktop connection by typing Remote Desktop in windows search bar. Enter the ipaddress of the computer you would like to gain remote access into. You will need to know the username and password to access this computer. I obtained the public ipadress from a virtual machine (windows) I created in the Microsoft Azure Portal.  
 </p>
 
 ![image](https://github.com/Tdhndrsn/vpn-setup/assets/139307191/968c636a-ed47-407b-b4ec-7b2bde07439e)
